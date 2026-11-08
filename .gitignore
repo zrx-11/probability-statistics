@@ -1,0 +1,4 @@
+# 产物与缓存
+__pycache__/
+*.pyc
+_shots/
